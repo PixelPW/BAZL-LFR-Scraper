@@ -1,7 +1,8 @@
 # BAZL Luftfahrzeugregister Scraper
 
 ## Prerequisites
-Node.js
+* Node.js
+* Download current lfr.csv file from here: https://www.bazl.admin.ch/bazl/de/home/fachleute/luftfahrzeuge/luftfahrzeugregister.html
 
 ## Installation
 Execute the following commands:
