@@ -1,5 +1,6 @@
 # BAZL Luftfahrzeugregister Scraper
 
+Creats JSON file for a dump1090 aircraft database. Only for aircrafts registered in Switzerland.
 ## Prerequisites
 * Node.js
 * Download current lfr.csv file from here: https://www.bazl.admin.ch/bazl/de/home/fachleute/luftfahrzeuge/luftfahrzeugregister.html
